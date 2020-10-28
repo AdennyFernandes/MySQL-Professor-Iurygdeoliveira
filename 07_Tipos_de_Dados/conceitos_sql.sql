@@ -21,7 +21,7 @@
 	  -- AUTO_INCREMENT, que embora seja um campo inteiro, possuir propriedades particulares.
 										      
 										  
-
+https://imgur.com/a/dlSksex
 
 
 	   
