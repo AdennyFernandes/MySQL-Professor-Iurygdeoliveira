@@ -19,6 +19,8 @@
 # 7.4 - OUTROS TIPOS: Armazena outros tipos de dados como os geométricos por exemplo (que é pouco
 	  -- utilizado nos ERP’s e aplicativos mobile). Armazena também a estrutura do campo
 	  -- AUTO_INCREMENT, que embora seja um campo inteiro, possuir propriedades particulares.
+										      
+										  
 
 
 
